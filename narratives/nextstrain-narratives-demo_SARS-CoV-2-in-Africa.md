@@ -16,5 +16,5 @@ dataset: https://nextstrain.org/ncov/gisaid/africa/2021-09-03?d=map&p=full
 ### *Data obtained from Africa Reuters Dashboard*
    https://graphics.reuters.com/world-coronavirus-tracker-and-maps/regions/africa/
 
-<img src="DSequ/nextstrain-narratives-demo/figures/narratives.png" alt="Case Counts and Deaths" />
+<img src="https://github.com/DSequ/nextstrain-narratives-demo/blob/main/figures/narratives.png" alt="Case Counts and Deaths" />
 
